@@ -1,0 +1,12 @@
+.active {
+    background-color: rgb(78, 207, 247);
+    margin-right: 1rem;
+}
+
+.active:hover {
+    border: 1px solid rgb(5, 238, 250);
+}
+
+/* #items-list {
+    border: 2px solid red;
+} */
